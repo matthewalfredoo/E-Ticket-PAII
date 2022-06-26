@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Del/A-Kuliah/A-Semester4/Proyek Akhir II/Z-Help/E-Ticket-PAII/app/src/main/res/layout/activity_baru.xml" value="0.25" />
+        <entry key="..\:/Del/A-Kuliah/A-Semester4/Proyek Akhir II/Z-Help/E-Ticket-PAII/app/src/main/res/layout/activity_detail_ticket.xml" value="0.25" />
+        <entry key="..\:/Del/A-Kuliah/A-Semester4/Proyek Akhir II/Z-Help/E-Ticket-PAII/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Del/A-Kuliah/A-Semester4/Proyek Akhir II/Z-Help/E-Ticket-PAII/app/src/main/res/layout/toolbar.xml" value="0.25" />
+        <entry key="..\:/Del/A-Kuliah/A-Semester4/Proyek Akhir II/Z-Help/E-Ticket-PAII/app/src/main/res/layout/toolbar_custom.xml" value="0.25" />
         <entry key="..\:/ETicket/app/src/main/res/drawable/bg_btn_beli.xml" value="0.2611111111111111" />
         <entry key="..\:/ETicket/app/src/main/res/drawable/bg_btn_google.xml" value="0.25" />
         <entry key="..\:/ETicket/app/src/main/res/drawable/btn_daftar.xml" value="0.25462962962962965" />
